@@ -46,13 +46,13 @@ export const metadata: Metadata = {
     siteName: 'NFT Marketplace',
     images: [
       {
-        url: '/assets/images/slider-pc.png',
+        url: '/assets/images/preview.webp',
         width: 800,
         height: 600,
         alt: 'NFT Marketplace by ZenTek',
       },
       {
-        url: '/assets/images/slider-pc.png',
+        url: '/assets/images/preview.webp',
         width: 1800,
         height: 1600,
         alt: 'NFT Marketplace by ZenTek',
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     description:
       'Discover unique NFT collections, trade digital assets, and join our vibrant community of artists and collectors. Explore premium NFT drops and exclusive collections.',
     creator: '@ZenTek',
-    images: ['/assets/images/slider-pc.png'],
+    images: ['/assets/images/preview.webp'],
   },
 
   icons: {
