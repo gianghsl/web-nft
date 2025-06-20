@@ -51,7 +51,7 @@ const Footer = () => {
           </div>
         ))}
         <div>
-          <h3 className='mb-3 font-heading text-lg font-black uppercase text-text-primary'>
+          <h3 className='mb-3 font-heading text-lg font-black uppercase italic text-text-primary'>
             Contact Us
           </h3>
           <ul className='mb-4 space-y-2'>
