@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: 'NFT Marketplace | Discover, Collect & Trade Digital Assets',
     description:
       'Discover unique NFT collections, trade digital assets, and join our vibrant community of artists and collectors. Explore premium NFT drops and exclusive collections.',
-    url: '/',
+    url: 'https://web-nft-zentek.vercel.app/',
     siteName: 'NFT Marketplace',
     images: [
       {
@@ -81,12 +81,12 @@ export const metadata: Metadata = {
   },
   manifest: '/assets/icons/icons-seo/site.webmanifest',
   alternates: {
-    canonical: '/',
+    canonical: 'https://web-nft-zentek.vercel.app/',
     languages: {},
   },
   appLinks: {
     web: {
-      url: '/',
+      url: 'https://web-nft-zentek.vercel.app/',
       should_fallback: true,
     },
   },
